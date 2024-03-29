@@ -2647,6 +2647,7 @@ input, select, textarea {
 
 	#footer .icons {
 		margin: 1em 0 0 0;
+		padding-left: 50px;
 	}
 
 		#footer .icons a {
@@ -3083,7 +3084,7 @@ input, select, textarea {
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
 				bottom: auto;
-				left: auto;
+				left: 50px;
 				padding: 4em 4em 6em 4em;
 				position: relative;
 				text-align: center;
@@ -3168,7 +3169,7 @@ input, select, textarea {
 
 			#footer {
 				padding: 2.25em 1.5em;
-			}
+				
 
 		/* Main */
 
